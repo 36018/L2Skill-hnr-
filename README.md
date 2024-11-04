@@ -5,7 +5,13 @@ Bedenk zelf ook nog een factor die van invloed kan zijn op de playability of rep
 
 Zet dit in een readme.
 
-Een factor wat ik ook belangrijk vind is dat het er netjes en overzichtelijk eruit ziet. Bijvoorbeeld bij Minecraft heb je de healthbar, foodbar, armorbar, experiencebar en de inventory zitten in het midden over aan het scherm. Dit ziet er overzichtelijk uit. Als de health bij voorbeeld rechtsboven staat, foodbar links midden. Enzovoort. Dat ziet er minder overzichtelijk waardoor je aandacht naartoe gaat dan naar 1 punt waar alles staat. Ik zou zelf afdwarrelen als er over wat staat. 
+Een factor wat ik ook belangrijk vind is dat het er netjes en overzichtelijk eruit ziet. 
+Bijvoorbeeld bij Minecraft heb je de healthbar, foodbar, armorbar, experiencebar en de inventory zitten in het midden over aan het scherm. 
+Dit ziet er overzichtelijk uit. 
+Als de health bij voorbeeld rechtsboven staat, foodbar links midden. 
+Enzovoort. 
+Dat ziet er minder overzichtelijk waardoor je aandacht naartoe gaat dan naar 1 punt waar alles staat. 
+Ik zou zelf afdwarrelen als er over wat staat. 
 
 ![Layout in minecraft](minecraft_layout.jpg)
 
@@ -20,10 +26,15 @@ Zet je uitwerking van de opdracht ook in dezelfde readme.
 theoretically fun in games, comes from being able to learn, improve and achieve without the real life consequences. 
 Patterns that match their personal interest at a good pace without providing ways to cheat.
 
-Deze video heeft het vooral over patterns, dingen die terug komen. Daar ben ik het wel mee eens. Door patronen te zien, zou je eerder snappen wat er van je verwacht wordt in de game. Het wordt dan duidelijker en voorspelbaar. Vooral voor nieuwe spelers is dit een grote factor. Natuurlijk is de andere zien die ik hierboven in het engels heb geschreven (Komt uit de video) over dat het ook belangrijk is dat je soms niet de consequenties tegen kom. In een game zoals GTA kan je mensen aanrijden en wapens kopen/gebruiken. Door dit in de game te doen zou je wellicht niet zo snel dit in het echte leven doen, dat zou zorgen voor onverwachte situaties of iets wat je niet wil. 
+Deze video heeft het vooral over patterns, dingen die terug komen. 
+Daar ben ik het wel mee eens. Door patronen te zien, zou je eerder snappen wat er van je verwacht wordt in de game. 
+Het wordt dan duidelijker en voorspelbaar. Vooral voor nieuwe spelers is dit een grote factor. 
+Natuurlijk is de andere zien die ik hierboven in het engels heb geschreven (Komt uit de video) over dat het ook belangrijk is dat je soms niet de consequenties tegen kom. 
+In een game zoals GTA kan je mensen aanrijden en wapens kopen/gebruiken. 
+Door dit in de game te doen zou je wellicht niet zo snel dit in het echte leven doen, dat zou zorgen voor onverwachte situaties of iets wat je niet wil. 
 Plezier is het belangrijkste in het spel anders zou je een spel niet snel spellen.
 
-![What Makes Games FUN (Psychology in Gaming)](https://www.youtube.com/watch?v=lkatr_a1OMQ)
+https://www.youtube.com/watch?v=lkatr_a1OMQ
 
 Opdracht 3:
 Zoek en edit een video clip (10 sec) van een voorbeeld van een bestaande game waarin goede "playability" duidelijk naar voren komt.
@@ -64,6 +75,13 @@ Kies 2 factoren voor playability of re-playablity uit die je zou willen doorvoer
 Zet je schetsen en de uitleg in de readme.
 
 Voor mijn towerdefense zou ik het liefste me game een balans geven met een moeilijkheidsgraad en aanpasbaarheid.
-Voor de idee dat ik heb hebben ze beiden te maken met verschillende towers, waves, meer enemy's of moeilijkere enemy's.
+Voor de idee dat ik heb hebben ze beiden te maken met verschillende towers, meer enemy's.
 
+Dit waren de ideeen voor mijn verschillende towers: In de game komen 5 verschillende towers voor. 
+(1)Een husky tower die je damage geeft doordat hij in jouw radius praat, 
+(2)Een Rottweiler die kwijlt als hij je ziet (er komt dan een plasje water op het pad) waardoor je langzamer gaat lopen. 
+(3)Een tower die honden schiet die actief zijn en moeten lopen, doordat ze tegen je aan gaan krijg je damage. 
+(4)Een hond die passie heeft voor aandacht en houd van likken, er komt dan een tong vanuit de tower die in een bepaalde radius 1 persoon per keer kan likken en damage krijgt. 
+(5)Een tower met een hond erop die poept na een aantal seconden op het pad die mensen belopen.
 
+De verschillende enemies zou dan bijvoorbeeld een postman kunnen zijn die kranten gooit waardoor hij niet geraakt wordt door de towers als een soort defense. 
